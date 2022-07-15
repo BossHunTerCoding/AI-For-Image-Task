@@ -1,12 +1,12 @@
 <h1 align="center"> 
- [ Article AI for Image Task ]
+ [ Article AI For Image Task ]
 <h1>
  
  ![Image](File/Image/Intro%20image.png)
  
  ### ภาพ (Image)
- - คือ **Array** ของตัวเลขในขนาด 2 มิติ หรือ 3 มิติ ประกอบด้วย ความกว้าง (width), ความสูง (height), ความลึก (depth)
- - ปกติหลายๆ **libraries** จะจัดวางแบบ <br>(depth, height, width)
+ - คือ **Array** ของตัวเลขในขนาด 2 มิติ ประกอบด้วย ความกว้าง (width), ความสูง (height) <br>หรือ 3 มิติ ประกอบด้วย ความกว้าง (width), ความสูง (height), ความลึก (depth)
+ - ปกติเทรนโมเดลหลายๆ **libraries** จะจัดวางแบบ <br>(depth, height, width)
  
  ```
  เช่น (3, 254, 224) => depth= 3, height = 254, width = 224
@@ -19,7 +19,7 @@
  ```
  <br>
  
- # [APPLICATION OF DEEP LEARNING FOR IMAGE ANALYSIS]
+ # APPLICATION OF DEEP LEARNING FOR IMAGE ANALYSIS
  
  ### Image Classification
  - การจำแนกรูปภาพ เป็นงานพื้นฐานที่พยายามทำความเข้าใจภาพรวมทั้งหมด
@@ -32,7 +32,7 @@
   <img src="File/Image/Citation needed.png">
  <p>
  
-  ### #Object detection
+  ### #Object Detection
    - เป็นเทคโนโลยีคอมพิวเตอร์ ที่เกี่ยวข้องกับการมองเห็นด้วยคอมพิวเตอร์และการประมวลผลภาพที่เกี่ยวข้องกับการตรวจจับ <br>อินสแตนซ์ของวัตถุเชิงความหมายบางประเภท (เช่นมนุษย์ อาคาร หรือรถยนต์) ในภาพและวิดีโอดิจิทัล
   ### #Semantic Segmentation
    - เป็นการประมวลผลภาพที่เกี่ยวข้องกับการตรวจจับ ที่อยู่ใกล้กันเป็น **Object** เดียวกัน
