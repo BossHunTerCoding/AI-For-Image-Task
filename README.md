@@ -27,7 +27,7 @@
  - เป้าหมายเพื่อกำหนดป้ายหรือลาเบล (คือบอกให้ได้เป็นรูปอะไร)
  - โดยทั่วไป การจัดประเภทรูปภาพหมายถึง รูปภาพที่มีเพียงหนึ่ง **Object** เท่านั้นที่ปรากฏและถูกวิเคราะห์
  
-ในทางตรงกันข้าม การตรวจจับวัตถุ [(**object detection**)](https://github.com/BossHunTerCoding/AI-For-Image-Task/edit/main/README.md#object-detection) เกี่ยวข้องกับงานการจำแนกประเภท [(**classification**)](https://github.com/BossHunTerCoding/AI-For-Image-Task/edit/main/README.md#image-classification) และการหาขอบของภาพ <br>และใช้ในการวิเคราะห์กรณีที่สมจริงมากขึ้นซึ่งอาจมีวัตถุหลายชิ้นอยู่ในรูปภาพ
+ในทางตรงกันข้าม การตรวจจับวัตถุ **object detection** เกี่ยวข้องกับงานการจำแนกประเภท **classification** และการหาขอบของภาพ <br>และใช้ในการวิเคราะห์กรณีที่สมจริงมากขึ้นซึ่งอาจมีวัตถุหลายชิ้นอยู่ในรูปภาพ
  
  <p align="center">
   <img src="File/Image/Citation needed.png" width="800"><br>
@@ -35,11 +35,11 @@
  <p>
  
 ### #Object Detection
- - เป็นเทคโนโลยีคอมพิวเตอร์ ที่เกี่ยวข้องกับการมองเห็นด้วยคอมพิวเตอร์และการประมวลผลภาพที่เกี่ยวข้องกับการตรวจจับ <br>[อินสแตนซ์ของวัตถุ](https://github.com/BossHunTerCoding/AI-For-Image-Task/edit/main/README.md#instance-segmentation)เชิงความหมายบางประเภท (เช่นมนุษย์ อาคาร หรือรถยนต์) ในภาพและวิดีโอดิจิทัล
+ - เป็นเทคโนโลยีคอมพิวเตอร์ ที่เกี่ยวข้องกับการมองเห็นด้วยคอมพิวเตอร์และการประมวลผลภาพที่เกี่ยวข้องกับการตรวจจับ <br>อินสแตนซ์ของวัตถุเชิงความหมายบางประเภท (เช่นมนุษย์ อาคาร หรือรถยนต์) ในภาพและวิดีโอดิจิทัล
 ### #Semantic Segmentation
  - เป็นการประมวลผลภาพที่เกี่ยวข้องกับการตรวจจับ ที่อยู่ใกล้กันเป็น **Object** เดียวกัน
 ### #Instance Segmentation
- - ทำงานคล้ายกับ [**Semantic Segmentation**](https://github.com/BossHunTerCoding/AI-For-Image-Task/edit/main/README.md#semantic-segmentation) แต่สามารถระบุ **ID** ของ **Object** ในภาพด้วย
+ - ทำงานคล้ายกับ **Semantic Segmentation** แต่สามารถระบุ **ID** ของ **Object** ในภาพด้วย
   
 <p align="center">
  <img src="File/Image/Segmentation.png">
@@ -51,10 +51,7 @@
  <img align="center" src="File/Image/CalculationMeme.gif" width="500">
 <p><br>
 
-<h2 align="right">
- <a href="https://github.com/BossHunTerCoding/AI-For-Image-Task/edit/main/README.md#---article-ai-for-image-task-">Back Top Header</a>
-<h2>
-
+#
 ![Image](File/Image/Thank.png)
 
 # Note
