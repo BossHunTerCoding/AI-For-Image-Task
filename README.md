@@ -29,7 +29,9 @@
  ในทางตรงกันข้าม การตรวจจับวัตถุ **(object detection)** เกี่ยวข้องกับงานการจำแนกประเภท **(classification)** และการหาขอบของภาพ <br>และใช้ในการวิเคราะห์กรณีที่สมจริงมากขึ้นซึ่งอาจมีวัตถุหลายชิ้นอยู่ในรูปภาพ
  
  <p align="center">
-  <img src="File/Image/Citation needed.png">
+  <img src="File/Image/Citation needed.png" width="800">
+  <br>
+  <img src="File/Image/gentle_guide_obj_det_demo.gif" width="800">
  <p>
  
   ### #Object Detection
@@ -38,10 +40,17 @@
    - เป็นการประมวลผลภาพที่เกี่ยวข้องกับการตรวจจับ ที่อยู่ใกล้กันเป็น **Object** เดียวกัน
   ### #Instance Segmentation
    - ทำงานคล้ายกับ **Semantic Segmentation** แต่สามารถระบุ **ID** ของ **Object** ในภาพด้วย
- <p align="center">
-  <img src="File/Image/Segmentation.png">
- <p><br>
-  
+   <p align="center">
+   <img src="File/Image/Segmentation.png">
+   <p><br>
+   
+   <h1 align="center">Real-Time Object Detection</h1>
+   <p align="center">
+   <img align="center" src="File/Image/Real-Time Detection hm.gif" width="500">
+   <br>
+   <img align="center" src="File/Image/CalculationMeme.gif" width="500">
+   <p><br>
+ 
   ![Image](File/Image/Thank.png)
 
   # Note
