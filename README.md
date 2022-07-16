@@ -99,7 +99,7 @@
 # **Note**
 
 - **Full Content File PDF** : [AI for Image Task](File/PDF/AI%20for%20image%20task.pdf)
-- **References** <br>
-**Object Detection** : [Medium - Object Detection with 10 lines of code](https://medium.com/towards-data-science/object-detection-with-10-lines-of-code-d6cb4d86f606)<br>
-**Semantic Segmentation** :  [Medium - How to do Semantic Segmentation using Deep learning](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)<br>
-**Semantic Segmentation & Instance Segmentation** : [V7 - The Definitive Guide to Instance Segmentation](https://www.v7labs.com/blog/instance-segmentation-guide)
+- **Source** <br>
+  > **Object Detection** : [Medium - Object Detection with 10 lines of code](https://medium.com/towards-data-science/object-detection-with-10-lines-of-code-d6cb4d86f606)<br>
+  > **Semantic Segmentation** :  [Medium - How to do Semantic Segmentation using Deep learning](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)<br>
+  > **Semantic Segmentation & Instance Segmentation** : [V7 - The Definitive Guide to Instance Segmentation](https://www.v7labs.com/blog/instance-segmentation-guide)
